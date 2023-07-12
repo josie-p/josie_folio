@@ -6,6 +6,8 @@ const Navbar = () => {
         <nav>
             <h2>my site</h2>
             <Link to="/">home</Link>
+            <Link to="/about">about</Link>
+            <Link to="/portfolio">portfolio</Link>
         </nav>
     )
 }
